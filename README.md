@@ -1,3 +1,3 @@
 # Projeto desenvolvido durante o hiring coders
 
-Script para mostrar todos os livros de uma categoria que o usuario deseja, caso contrario, os livros são mostrados em ordem decrecente
+Script para mostrar todos os livros de uma categoria que o usuário deseja, caso contrário, os livros serão mostrados em ordem decrescente.
